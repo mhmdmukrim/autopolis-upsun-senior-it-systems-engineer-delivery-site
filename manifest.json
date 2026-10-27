@@ -1,0 +1,33 @@
+{
+  "slug": "upsun-senior-it-systems-engineer-delivery-site",
+  "kind": "service",
+  "name": "Upsun: Senior IT Systems Engineer — delivery site",
+  "generatedAt": "2026-10-27T09:34:40.028Z",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 4185,
+      "sha256": "4f6593b2b55524bfd700eb3f7248d15313e5712864522819e750d01a568bb493"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 3762,
+      "sha256": "8bab91e5fe6221ae8f34e319740b80a5d215a7d1ba6b8cb4071bb5059e620e64"
+    },
+    {
+      "path": "app.js",
+      "bytes": 796,
+      "sha256": "a4fa1ccab082dabb482ed655161519d6d6e833d5022340caf9a7e54b0d6d0919"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1619,
+      "sha256": "2de93f53e057b88f7be4b3db98eff310e3a8b2ab18c5315465a4e632a76ec4f6"
+    },
+    {
+      "path": "contact.php",
+      "bytes": 1619,
+      "sha256": "0515a956a7d7e4e5083fedb75fda2eaca5f330cdbfa5de46a5a23022b0dd30fa"
+    }
+  ]
+}
